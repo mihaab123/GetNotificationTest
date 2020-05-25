@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Get Notification</string>
+    <string name="no_notifys_all">There`s no notification yet</string>
+    <string name="nav_all">All</string>
+    <string name="nav_per_hour">Per hour</string>
+    <string name="nav_per_day">Per day</string>
+    <string name="nav_per_month">Per month</string>
+</resources>

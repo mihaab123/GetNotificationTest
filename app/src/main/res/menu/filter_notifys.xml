@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group"
+        android:checkableBehavior="single"
+        android:enabled="true">
+        <item
+            android:id="@+id/all"
+            android:title="@string/nav_all" />
+        <item
+            android:id="@+id/per_hour"
+            android:title="@string/nav_per_hour" />
+        <item
+            android:id="@+id/per_day"
+            android:title="@string/nav_per_day" />
+        <item
+            android:id="@+id/per_month"
+            android:title="@string/nav_per_month" />
+    </group>
+</menu>
